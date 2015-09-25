@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{046E2AF1-EDCF-4DC0-BDDB-8EFEBE28AA2B}</ProjectGuid>
+    <ProjectGuid>{CF028189-E54B-4A22-A5C4-C09BC01E594A}</ProjectGuid>
     <RootNamespace>PolyBoolean</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
     <Keyword>MFCProj</Keyword>
